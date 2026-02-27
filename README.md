@@ -2,7 +2,7 @@
 
 A beautiful and modern Flutter application for tracking Seheri (pre-dawn meal) and Iftar (post-sunset meal) times during Ramadan. Built with a stunning glassmorphism design and real-time countdown functionality.
 
-![Ramadan Countdown](https://img.shields.io/badge/Ramadan-1446 AH-blue)
+![Ramadan Countdown](https://img.shields.io/badge/Ramadan-1446)
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
